@@ -94,10 +94,7 @@ Step 2: onces installed you can create a virtual environmrnt with " virtualenv d
 by having many pythons installed whicg caused conflits i made sure to use the correct python interpreter then tried running py -m venv venv. 
 
 
-#Deliverables:
-- Document detailing the setup process with step-by-step instructions and screenshots where necessary.
-- A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
-- A reflection on the challenges faced during setup and strategies employed to overcome them.
+- A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).https://github.com/NeoMonametsi/djangoproject/tree/main/my_project
 
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
